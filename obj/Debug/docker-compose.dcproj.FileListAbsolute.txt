@@ -1,0 +1,8 @@
+C:\Users\bhavanarani\Desktop\bench\july\OrderMicroservice\bin\Debug\appsettings.Development.json
+C:\Users\bhavanarani\Desktop\bench\july\OrderMicroservice\bin\Debug\appsettings.json
+C:\Users\bhavanarani\Desktop\bench\july\OrderMicroservice\bin\Debug\Properties\launchSettings.json
+C:\Users\bhavanarani\Desktop\bench\july\OrderMicroservice\bin\Debug\OrderMicroservice.exe
+C:\Users\bhavanarani\Desktop\bench\july\OrderMicroservice\bin\Debug\OrderMicroservice.dll
+C:\Users\bhavanarani\Desktop\bench\july\OrderMicroservice\bin\Debug\OrderMicroservice.pdb
+C:\Users\bhavanarani\Desktop\bench\july\OrderMicroservice\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\bhavanarani\Desktop\bench\july\OrderMicroservice\obj\Debug\docker-compose.dcproj.CopyComplete

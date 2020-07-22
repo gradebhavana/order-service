@@ -1,0 +1,17 @@
+version: '3.4'
+
+networks:
+  my_user_network:
+    external: true
+
+services:
+  ordermicroservice:
+    image: order-microservice:DEV
+    ports:
+      - '53307:80'
+      - '53306:443'
+    build:
+      context: .
+      dockerfile: Dockerfile
+    networks:
+      - my_user_network 
